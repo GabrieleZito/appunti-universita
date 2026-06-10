@@ -1,0 +1,6 @@
+﻿Operatori,Parole chiave utilizzabili,Argomento
+Count,"Distinct, All",Lista di attributi
+Sum,"Distinct, All",Espressioni che rappresentano valori numerici o intervalli di tempo
+Max,"Distinct, All",Espressione in cui è definito un ordinamento
+Min,"Distinct, All",Espressione in cui è definito un ordinamento
+Avg,"Distinct, All",Espressioni che rappresentano valori numerici o intervalli di tempo
